@@ -199,4 +199,3 @@ To clone the mountain-bikin-trails-in-romania repository:
  - [W3Schools](https://www.w3schools.com/)
 
 Click to go to the [TESTING.md](TESTING.md)
-# mtb_trails-in-romania
